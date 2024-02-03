@@ -1,0 +1,32 @@
+a{
+    color:inherit;
+    color: red;
+}
+span{
+    color: blue;
+}
+body{
+    background-color: #fdfdbb;
+}
+#main{
+    height: 80vh;    
+}
+#footer{
+    text-align: center;
+}
+div{
+    padding: 0;
+    margin: 20px;
+}
+table{
+    border: 1px solid black;
+}
+tr{
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+#head{
+    background-color: green;
+    color: black;
+}
